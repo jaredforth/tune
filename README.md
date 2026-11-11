@@ -16,6 +16,12 @@ Needs the Xcode Command Line Tools only.
 
 The app is unsigned (ad-hoc) and built locally. It asks for microphone access on first launch.
 
+## Test
+
+```sh
+./test.sh
+```
+
 ## License
 
 [GPL-3.0](LICENSE)
